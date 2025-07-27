@@ -483,18 +483,6 @@ npm run type-check
    # Ensure frontend URL is in SANCTUM_STATEFUL_DOMAINS
    ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support and questions:
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/task-management-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/task-management-system/discussions)
-- **Documentation**: [Project Wiki](https://github.com/your-username/task-management-system/wiki)
-
 ## Project Status
 
 - Backend API: Complete with authentication, CRUD operations, real-time features
